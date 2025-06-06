@@ -1,3 +1,4 @@
-### 🔗 Live Project
+## 🔗 Project URL
 
-[Click here to view the project](https://samarthtyagi49.github.io/html-website/)
+https://samarthtyagi49.github.io/html-website/
+
