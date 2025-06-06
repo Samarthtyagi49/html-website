@@ -1,3 +1,3 @@
-### 🔗 Project Page
+### 🔗 Live Project
 
-[View the Live Project](http://127.0.0.1:5501/index.html)
+[Click here to view the project](https://samarthtyagi49.github.io/html-website/)
