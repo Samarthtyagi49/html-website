@@ -1,4 +1,1 @@
-## 🔗 Project URL
-
-https://samarthtyagi49.github.io/html-website/
-
+Project URL: https://samarthtyagi49.github.io/html-website/
